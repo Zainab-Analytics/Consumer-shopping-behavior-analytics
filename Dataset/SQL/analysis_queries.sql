@@ -1,1 +1,0 @@
--- Consumer Shopping Behavior Analytics Queries
